@@ -53,3 +53,14 @@ The project includes:
 ## Dataset
 
 This project uses a small sample dataset created for portfolio and educational purposes. It does not represent internal or proprietary data from any beauty company.
+
+## Analysis Visualizations
+
+### Average Consumer Rating by Beauty Category
+![Average Consumer Rating by Beauty Category](category_ratings.png)
+
+### Price vs. Consumer Rating
+![Price vs. Consumer Rating](price_vs_rating.png)
+
+### Top Products by Consumer Engagement
+![Top Products by Consumer Engagement](consumer_engagement.png)
